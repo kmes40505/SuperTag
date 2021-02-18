@@ -1,1 +1,2 @@
-Main-Class: super_tag.super_tag
+Manifest-Version: 1.0
+Main-Class: super_tag
